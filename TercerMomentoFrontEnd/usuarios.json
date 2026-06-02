@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "usuario": "erica@gruporoldan.com.co",
+    "clave": "2146",
+    "nombre": "Erica Avendaño",
+    "rol": "admin"
+  },
+  {
+    "id": "2",
+    "usuario": "profesor@inst.edu.co",
+    "clave": "1234",
+    "nombre": "Profesor Cesde",
+    "rol": "docente"
+  },
+  {
+    "id": "3",
+    "nombre": "María Pérez",
+    "documento": "1001234567",
+    "correo": "maria.perez@institucion.edu.co",
+    "rol": "Estudiante",
+    "grado": "10°A"
+  },
+  {
+    "id": "4",
+    "nombre": "Carlos López",
+    "documento": "1009876543",
+    "correo": "carlos.lopez@institucion.edu.co",
+    "rol": "Estudiante",
+    "grado": "11°B"
+  },
+  {
+    "id": "5",
+    "nombre": "Ana Martínez",
+    "documento": "1002345678",
+    "correo": "ana.martinez@institucion.edu.co",
+    "rol": "Estudiante",
+    "grado": "9°C"
+  },
+  {
+    "id": "6",
+    "nombre": "Luis Ramírez",
+    "documento": "71234567",
+    "correo": "luis.ramirez@institucion.edu.co",
+    "rol": "Docente",
+    "grado": "Matemáticas"
+  },
+  {
+    "id": "7",
+    "nombre": "Sandra Torres",
+    "documento": "43456789",
+    "correo": "sandra.torres@institucion.edu.co",
+    "rol": "Docente",
+    "grado": "Español"
+  }
+]
